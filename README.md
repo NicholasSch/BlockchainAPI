@@ -1,6 +1,6 @@
 # ⛓️ SecureChain API
 
-A lightweight Blockchain API developed for **CIS-3353** demonstrating cryptographic integrity through Hashing, Salting, and Proof-of-Work.
+A lightweight Blockchain API developed for **CIS-3353** class demonstrating cryptographic integrity through Hashing, Salting, and Proof-of-Work.
 
 ## 📄 Project Overview
 
